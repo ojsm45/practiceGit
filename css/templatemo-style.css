@@ -57,6 +57,8 @@ p {
 	text-transform: uppercase;
 	text-decoration: none;
 	border-radius: 20px;
+
+	border: 2px solid #f00;
 	
 }
 
